@@ -18,7 +18,7 @@
 
 
 
-- 💻 &nbsp; C++ | MySQL 
+- 💻 &nbsp; C++ | MySQL | Python
 
 - 🌐 &nbsp; HTML | CSS & SASS | JavaScript | Bootstrap 
 
