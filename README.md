@@ -24,7 +24,7 @@
 
 - 🔧 &nbsp; Git
 
-- 🖥 &nbsp; Illustrator | Adobe xd
+- 🖥 &nbsp; Illustrator | Adobe XD
 
 
 
