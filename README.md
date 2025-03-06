@@ -20,7 +20,7 @@
 
 - 💻 &nbsp; C++ | MySQL | Python
 
-- 🌐 &nbsp; HTML | CSS & SASS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS & SASS | JavaScript | ReactJS 
 
 - 🔧 &nbsp; Git
 
@@ -31,7 +31,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; TypeScript | ReactJS | Angular | Node.js
+- 🔧 &nbsp; TypeScript | NextJS | Node.js
 
 <hr>
 
